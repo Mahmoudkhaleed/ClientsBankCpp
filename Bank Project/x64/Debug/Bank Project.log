@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\Programming\fundamentals of programming\hadhood\Bank Project\global.h(44,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Programming\fundamentals of programming\hadhood\Bank Project\global.h(157,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Programming\fundamentals of programming\hadhood\Bank Project\global.h(157,96): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Bank Project.vcxproj -> E:\Programming\fundamentals of programming\hadhood\Bank Project\x64\Debug\Bank Project.exe

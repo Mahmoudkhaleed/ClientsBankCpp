@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\showList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|solutionrelative:showList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|solutionrelative:global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\updateclient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|solutionrelative:updateclient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\findclient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|solutionrelative:findclient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\addClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|solutionrelative:addClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\deleteclient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29EE1C4-8878-41CA-ACF3-388E0B008A2B}|Bank Project.vcxproj|solutionrelative:deleteclient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "deleteclient.h",
+              "DocumentMoniker": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\deleteclient.h",
+              "RelativeDocumentMoniker": "deleteclient.h",
+              "ToolTip": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\deleteclient.h",
+              "RelativeToolTip": "deleteclient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T08:54:14.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "global.h",
+              "DocumentMoniker": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\global.h",
+              "RelativeDocumentMoniker": "global.h",
+              "ToolTip": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\global.h",
+              "RelativeToolTip": "global.h",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwJoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T08:19:59.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "findclient.h",
+              "DocumentMoniker": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\findclient.h",
+              "RelativeDocumentMoniker": "findclient.h",
+              "ToolTip": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\findclient.h",
+              "RelativeToolTip": "findclient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T08:19:47.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "updateclient.h",
+              "DocumentMoniker": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\updateclient.h",
+              "RelativeDocumentMoniker": "updateclient.h",
+              "ToolTip": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\updateclient.h",
+              "RelativeToolTip": "updateclient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T08:19:16.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "addclient.h",
+              "DocumentMoniker": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\addclient.h",
+              "RelativeDocumentMoniker": "addclient.h",
+              "ToolTip": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\addclient.h",
+              "RelativeToolTip": "addclient.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T08:16:51.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "showlist.h",
+              "DocumentMoniker": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\showlist.h",
+              "RelativeDocumentMoniker": "showlist.h",
+              "ToolTip": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\showlist.h",
+              "RelativeToolTip": "showlist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T08:16:17.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\Programming\\fundamentals of programming\\hadhood\\Bank Project\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T08:15:00.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
